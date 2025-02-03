@@ -1,0 +1,17 @@
+D:\myWaterShop\WaterShop\bin\Debug\net8.0-windows\WaterShop.exe
+D:\myWaterShop\WaterShop\bin\Debug\net8.0-windows\WaterShop.deps.json
+D:\myWaterShop\WaterShop\bin\Debug\net8.0-windows\WaterShop.runtimeconfig.json
+D:\myWaterShop\WaterShop\bin\Debug\net8.0-windows\WaterShop.dll
+D:\myWaterShop\WaterShop\bin\Debug\net8.0-windows\WaterShop.pdb
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.Form1.resources
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.csproj.GenerateResource.cache
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.AssemblyInfoInputs.cache
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.AssemblyInfo.cs
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.csproj.CoreCompileInputs.cache
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.dll
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\refint\WaterShop.dll
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.pdb
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.genruntimeconfig.cache
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\ref\WaterShop.dll
+D:\myWaterShop\WaterShop\obj\Debug\net8.0-windows\WaterShop.Properties.Resources.resources
